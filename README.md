@@ -15,7 +15,7 @@ Simply, you will use the TradingView webhooks, send the information to localhost
 
 Clone repository to computer:
 ```
-git clone https://github.com/DanillGodovan/Binance-tradingview-bot.gitt
+git clone https://github.com/DanillGodovan/Binance-tradingview-bot.git
 ```
 
 Install Dependencies:
