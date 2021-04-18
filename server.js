@@ -20,7 +20,7 @@ app.use(
   })
 );
 
-app.post("/trade", async (req, res) => {
+app.post("/trading", async (req, res) => {
   const { tradingPair, coinOne, coinTwo, orderType } = req.body;
   let status = undefined;
 
